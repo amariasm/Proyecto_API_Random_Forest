@@ -19,8 +19,8 @@ Defining a housing price prediction model is the central part of the API and wil
 
 
 Contenido de las carpetas:
-artículo:  articulo (Proyecto_Data_Science.vs1.pdf), presentación en pptx y pdf (presentacion proyecto v1.pdf/pptx)
-data: bases de datos usadas en el estudio y la API
-generador app: main.py >subcarpetas(model: procuccion.py, app: encoder.pickle y model.pickle, src: carpeta sistema, template: index.htlm y result.html)
-graficos: Gráficos obtenidos de las notebooks
-noteboocks: proyecto_concatena_scraping.ipynb, proyecto_tratamiento_BasesD.ipynb, proyecto_modelo.ipynb, proyecto_provincia_budget.ipynb
+* artículo:  articulo (Proyecto_Data_Science.vs1.pdf), presentación en pptx y pdf (presentacion proyecto v1.pdf/pptx)
+* data: bases de datos usadas en el estudio y la API
+* generador app: main.py >subcarpetas(model: procuccion.py, app: encoder.pickle y model.pickle, src: carpeta sistema, template: index.htlm y result.html)
+* graficos: Gráficos obtenidos de las notebooks
+* noteboocks: proyecto_concatena_scraping.ipynb, proyecto_tratamiento_BasesD.ipynb, proyecto_modelo.ipynb, proyecto_provincia_budget.ipynb
